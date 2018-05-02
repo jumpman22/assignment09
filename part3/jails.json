@@ -1,0 +1,37 @@
+{"records":[ 
+    {
+      "source_id": "ak-apd",
+      "state": "AK",
+      "has_mugshots": false,
+      "name": "Anchorage Police Department",
+      "state_full": "Alaska"
+    },
+    {
+      "source_id": "ca-bcso",
+      "state": "CA",
+      "has_mugshots": true,
+      "name": "Baldwin County Sheriff's Office",
+      "state_full": "California"
+    },
+    {
+      "source_id": "wy-ccso",
+      "state": "WY",
+      "has_mugshots": false,
+      "name": "Calhoun County Sheriff's Office",
+      "state_full": "Wyoming"
+    },
+    {
+      "source_id": "nv-ccj",
+      "state": "NV",
+      "has_mugshots": false,
+      "name": "Chambers County Jail",
+      "state_full": "Nevada"
+    },
+    {
+      "source_id": "ny-chso",
+      "state": "NY",
+      "has_mugshots": true,
+      "name": "Cherokee County Sheriff's Office",
+      "state_full": "New York"
+    }
+]}
